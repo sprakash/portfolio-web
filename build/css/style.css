@@ -86,9 +86,7 @@ ul {
 
 .card {
   background-color: black;
-  margin: .5em 0;
-  border: 1px solid #03a9f43b; }
-
+  margin: .5em 0; }
 .text-muted {
   color: #355065 !important;
   text-align: center;
