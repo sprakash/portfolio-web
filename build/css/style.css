@@ -211,7 +211,8 @@ ul {
     color: #726501; }
     #more a:first-child {
       text-align: center;
-      display: block; }
+      display: block;
+      margin: 0 auto;}
     #more a:last-child {
       text-align: left;
       display: inline-block; }
